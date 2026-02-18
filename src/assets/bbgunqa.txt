@@ -1,0 +1,195 @@
+1 The 4-H acronym for gun safety, M.A.T., stands for Muzzle At Target. F 3
+2 The 4-H acronym for gun safety, M.A.T., stands for Muzzle, Action and Trigger. T 3
+3 The three basic firearm safety rules include muzzle control, keeping the action open except when prepared to fire, and trigger control. T 3
+4 You should always keep the muzzle pointed in a safe direction. Your location and common sense will tell you which direction is safest under various conditions. T 3
+5 It is usually safest to point the muzzle of an air rifle or firearm down range or straight up. T 3
+6 Any firearm with the action closed should be considered loaded and ready to fire. T 3
+7 Any firearm with the action closed should be considered unloaded as long as the safety is engaged. F 3
+8 Since the Daisy 499 does not have a bolt, it is more important to check and see whether it is cocked. T 3
+9 To check and see if the Daisy 499 is cocked, point the gun down range and squeeze the trigger. F 3
+10 To check the Daisy 499, open the cocking lever to determine if the spring has been cocked. If the lever is hard to open, it is uncocked. If it moves freely, it is cocked. T 3
+11 For safety purposes, Daisy 499 guns should remain in the quarter-cocked position with the safety on, to demonstrate they are not cocked. T 3
+12 The first thing you should do when picking up a firearm is to open the action and determine if it is loaded. T 3
+13 The first thing you should do when picking up a firearm is to make sure the safety is on. F 3
+14 All air rifles and firearms should have their actions open and exposed to view at all times except while you are actually firing. T 3
+15 The trigger guard is there to protect the trigger and prevent accidental discharge. T 3 
+16 When handling a gun, placing your finger inside the trigger guard prevents the trigger from accidentally getting bumped. F 3
+17 When handling a gun, you should keep your finger outside of the trigger guard to prevent the trigger from being bumped and accidentally discharged. T 3
+18 Your finger should be placed behind the trigger to prevent it from moving when handling a gun. F 3
+19 Placing your finger on the trigger of a rifle means the firing sequence has started. T 3
+20 Gun safety rules only apply to hunters in the field. F 4
+21 Gun safety rules apply to both hunters in the field and shooters on the range. T 4
+22 When picking up or accepting a gun, you know it is unloaded if someone tells you. F 4
+23 When picking up or accepting a gun, check to see if it is unloaded. T 4
+24 Don't take someone's word, always check yourself to see if a gun is loaded. T 4
+25 When you are finished hunting or shooting, you may leave your gun loaded as long as you put it in a case. F 4
+26 When climbing a steep hill, tree or crossing a stream, you should unload your gun. T 4
+27 When climbing a steep hill, tree or crossing a stream, you do not need unload your gun as long as you control the muzzle. F 4
+28 When crossing a wire fence, unload your gun, place it on the ground under the lowest wire, with the muzzle facing away from you. T 4
+29 When crossing a fence, unload your gun and prop it against a fence post while you cross. F 4
+30 Bullets and BBs can bounce of rocks and other hard surfaces. T 4
+31 A ricochet can occur in any direction, even back at the shooter. T 4
+32 A ricochet can occur in any direct, except back at the shooter. F 4
+33 It is safe to shoot at water, since bullets cannot skip off water. F 4
+34 You should never shoot at water since bullets can skip off water. T 4
+35 A backstop is something used to stop a bullet, pellet or BB. T 5
+36 A backstop should be free of any hard objects that would cause a ricochet. T 5
+37 A backstop should contain hard objects to actually stop a bullet. F 5
+38 Be sure you can see your target and be aware of the area beyond your target. T 5
+39 When shooting on a range, you do not have to worry about what is beyond your target. F 5
+40 A gun should be cleaned after each use. T 5
+41 There is no reason to clean a gun after you used it if it was working ok. F 5
+42 Never use BBs that are dirty since they could cause a jam. T 5
+43 If the barrel of a gun has mud or snow in it, it is still ok to shoot, since the bullet will push the snow out of the barrel. F 5
+44 Shotguns, rifles and BB guns all have the size ammunition they use marked on the barrel. T 5
+45 You should never carry different sizes of ammunition with you. T 5
+46 Out of respect to others, you should never touch or handle anyone else's shooting equipment without permission. T 5
+47 Although the Daisy 499 is not a firearm, it should be treated with care and respect. T 6
+48 Since the Daisy 499 is not a real firearm, it is not important to follow all of the firearm safety rules. F 6
+49 The most important safety component of any gun is the shooter. T 6
+50 The most important safety component of any gun is the safety. F 6
+51 You should never fire a gun until you are thoroughly familiar with it. T 6
+52 The best way to learn how a gun operates is to fire it. F 6
+53 It is a good practice to get into the habit of keeping the safety on until you are ready to fire. T 6
+54 All safeties are mechanical devices and the shooter is the only part of the system that can make the gun safe or unsafe. T 6
+55 The coach is the only part of the shooting system that can make a gun safe or unsafe. F 6
+56 A safety is a mechanical device on which you can always depend. F 6
+57 A safety is a mechanical device and should not be depended on, to make a gun safe. T 6
+58 Always cock a BB gun prior to loading. T 6
+59 It is safe to load a BB Gun before it is cocked, since the cocking of the gun will help seat the BB in the barrel. F 6
+60 If a BB is loaded before cocking, the gun could accidentally discharge if your hand slips off the cocking lever. T 6
+61 When loading the BB Gun, you should listen for the "click" of the BB seating itself. T 7
+62 If a BB does not seat when loaded, the shot will generally hit very low. T 7
+63 Loading more than one BB can be extremely dangerous as all of the BBs will fire and fly off in various directions. T 7
+64 Loading more than one BB is not dangerous; it will just cause multiple hits on the target. F 7
+65 Never carry a cocked and/or loaded BB gun. Even with the safety in the "SAFE" position, your gun is fully loaded and ready to fire. T 7 
+66 It is ok to carry a loaded BB Gun on the range as long as the safety is in the "SAFE" position. F 7
+67 Always sight or point the gun in a safe direction with a proper backstop. T 7
+68 BBs will not ricochet or bounce back off a hard surface due to low velocity. F 7
+69 You should take the safety off as soon as your coach hands you the gun. F 7
+70 You should only take your safety off when you are certain that your target, backstop and surround areas are safe. T 7
+71 If the Daisy 499 does not fire after cocking, loading and squeezing the trigger, the gun is inoperable. T 7
+72 When a gun does not fire the BB, do not re-cock the gun. T 7
+73 When the gun does not fire the BB, you should cock the gun and try again. F 7
+74 Dirty BBs can cause a BB Gun to malfunction and not fire. T 7
+75 If a gun does not fire, you should work with your coach to correct the problem. T 7
+76 When a BB gun does not fire, the gun should be pointed downrange, placed on safety and the barrel assembly carefully removed in order to clear the BB from the barrel. T 7
+77 When clearing a gun due to a malfunction, you should not fire the gun without the shot tube in the gun since this could damage or dislodge the magnet. T 7
+78 When clearing a gun due to a malfunction, you should fire the gun without the shot tub in place to clear out any dirt. F 7
+79 Since the Daisy 499 does not have a breech or bolt that can be opened to determine if it's loaded, it is more important to determine whether the gun is cocked. T 8
+80 To determine if the Daisy 499 is cocked, you should pull the trigger pointing the gun in a safe direction. F 8 
+81 To determine if the Daisy 499 is cocked, you should lift up slightly on the cocking lever to see if it moves freely or if there is resistance. T 8
+82 If the cocking lever of a Daisy 499 moves freely, the gun is cocked and you should assume a BB is loaded. T 8
+83 If the cocking lever of a Daisy 499 moves freely, the gun is not cocked and can be considered unloaded. F 8
+84 If resistance is felt when gently lifting the cocking lever of a Daisy 499, the gun is uncocked and unloaded. F 8
+85 If resistance is felt when gently lifting the cocking lever of a Daisy 499, the gun is not cocked but may still be loaded with a BB. T 8
+86 To ensure that the Daisy 499 is not loaded, place the gun on "SAFE", cock it, and without loading a BB, point the gun downrange toward a safe backstop. Place the gun on "FIRE" and discharge downrange. T 8
+87 To ensure that the Daisy 499 is unloaded, cock the gun and discharge it toward the ground. F 8
+88 Eye protection must be worn by everyone on the firing line area when rifles are being fired. T 8
+89 Eye protection must be worn only by shooters at the firing line. F 8
+90 Both coaches and shooters should wear eye protection at the firing line. It is not necessary for range officials to wear eye protection. F 8
+91 When not in use, BB guns should remain cased or be placed in a gun rack at the team area. T 8
+92 BB guns may be placed on the ground at the team area as long as they are quartercocked. F 8
+93 When going to the ready or firing line, guns should be placed in the quarter cocked position with the safety on. It is acceptable to carry the gun by the barrel with the muzzle pointed in a upward direction. T 8
+94 When going to the ready or firing line, guns should be placed in the quarter cocked position with the safety on and carried by the stock with the muzzle pointed toward the ground. F 8
+95 There should be no firing off range during the course of an event. T 8
+96 All firing for sighting purposes must be done at the firing line during a 4-H'ers assigned relay. T 8
+97 If a gun must be repaired in the course of the match, it may be fired behind the team area to ensure it is working. F 8
+98 Closed toe shoes that are secured to the feet by use of a heel strap or formed heal must be worn at all times on the range. T 8
+99 Shoes may be removed at the firing line during record fire. F 8
+100 Range commands are instructions only for shooters at the range. F 8
+101 Range commands control the movement of people around the firing area. T 8
+102 Range commands are given by the range officer to everyone on the range. This includes shooters, coaches, and individuals waiting at the ready line and team area. T 8
+103 "Relay Number 1 to the Firing Line" means shooters on Relay 1 should go to the firing line at their assigned firing point immediately. T 8
+104 During record fire, a team coach can only approach the firing line to assist with gun malfunctions, with the range officer’s permission. T 9
+105 During record fire, a team coach may move from the ready to the firing line freely to assist a shooter or line coach. F 9
+106 During the preparation period, shooters may "dry fire" the gun. T 9
+107 During the preparation period, shooters may shoot sighting shots, with the coaches’ permission. F 9
+108 If you are not ready to begin shooting when the command "Is the line ready?" is given, you should raise your hand and call "not ready." T 9
+109 At the "Commence Firing" command, you may cock and load your gun. T 9
+110 Once the command "Commence Firing" is given, you can no longer shoot sighting shots. F 9
+111 On hearing the command "Cease Fire," you should immediately place your gun on "SAFE" and point it in a safe direction. T 9
+112 On hearing the command "Cease Fire", you should go ahead and clear your gun, if a BB is loaded, before making it safe. F 9
+113 After the "Cease Fire" command is given, if you still have a loaded BB, the gun may be cleared when the "Clear all Guns" command is given. T 9
+114 When the "Clear all Guns" command is given, the range officer will instruct you to discharge the the gun into the taget box or backstop. T 9
+115 When the "Clear all Guns" command is given, the gun should be discharged into the air. F 9
+116 When grounding a gun, the gun should be placed next to you with the safety in the on position, facing up. The barrel should be pointed down range and the gun should be in the quarter-cocked position. T 9
+117 When a shooter arrives at the firing line, they must ground and make their rifles safe. T 9
+118 The target line is the line where target boxes are placed. T 10
+119 The target line is the point from which a shooter will fire. F 10
+120 The firing line is the point from which the shooter will fire. T 10
+121 The distance from the firing line to the target line is 5 meters (16 feet, 4 3/4 inches). T 10
+122 The distance from the firing line to the target line is 16 meters. F 10
+123 The firing point is the area provided for the shooter, from which to fire. T 10
+124 Each firing point should have a minimum width of 4 feet. T 10
+125 Each firing Point should have a minimum width of 5 feet. F 10
+126 The ready line is a line located behind the firing line that is reserved for coaches and shooters in the next relay. T 10
+127 The ready line is a line located behind the firing line reserved for parents and team members to observe shooters. F 10
+128 The team line or area located behind the ready line is for team members and public to gather. T 10
+129 To form a good foundation when shooting, most of the support for the rifle should come from the skeleton or bones. T 11
+130 When shooting, the body should be comfortable and relaxed. T 11
+131 A sling can greatly improve a shooters control and accuracy and can be used in all four positions. F 11
+132 A sling can greatly improve a shooters control and accuracy and can be used in every position except standing. T 11
+133 When placing the sling on the arm, it should be placed around the middle of the bicep. F 11
+134 When placing the sling on the arm, it should be placed either high or low on the upper arm, but not around the middle of the bicep. T 11
+135 The length of a shooters arm should determine where the sling is mounted on the gun's forearm. T 11
+136 A gun may have only one mounting point for the sling swivel. F 11
+137 The forward hand (left hand for a right hand shooter) should rest against the sling swivel when the position is built. T 11
+138 The length of the sling should be adjusted so the rifle is fully supported by the sling. T 11
+139 The prone position is the most stable postion due to the body's low center of gravity. T 11
+140 The prone position is the least stable position due to the elbows being pressed into the shooting mat. F 11
+141 In the prone position, elbows should remain close to the rifle. The further out they are spread, the more unstable the position becomes. T 12
+142 When building any shooting position the rifle should always be brought to the cheek. T 12
+143 When building any position, the head should be brought down to lay on the stock. F 12
+144 In the standing position, the feet should be placed about shoulder's width apart. T 12
+145 In the standing position, feet should be placed close together, with the heels touching. F 12
+146 It the standing position, the forward arm, (left arm for right handed shooters) is not allowed to come in contact with the upper body. F 12
+147 In the standing position, the forward arm (left arm for right handed shooters) should be tucked into the body (rested on the hip and rib cage) for support. T 12
+148 In the standing position, the forearm may rest on either the fist, the fingers or the palm of the hand. T 12
+149 The key to being successful in any position is to always build the position and hold the rifle exactly the same way every time. T 12
+150 In the sitting position, legs must be crossed. F 13
+151 In the sitting position, the elbows should be placed in the pocket of the knees. T 13
+152 In the sitting position, the elbows should rest on the knee caps. F 13
+153 In the kneeling position, a kneeling roll may be used under the buttocks for comfort. F 13
+154 In the kneeling position, a kneeling roll may be used to support the instep. T 13
+155 In the kneeling position, the forward arm (left arm for right handed shooters) should rest along the surface of the thigh. F 13
+156 In the kneeling position, the forward elbow (left elbow for right handed shooters) should rest in the hollow between the knee cap and the femur (upper leg bone). T 13
+157 Each position should be built around a shooters natural point of aim. T 12&13
+158 A blinder is a flap attached to the rear sight to block the view of the non-aiming eye. T 14
+159 The action is the mechanism that allows the gun to fire. T 14
+160 The last stopping point for a bullet or shot is called the backstop T 14
+161 The backstop is another term for the target. F 14
+162 By definition, the barrel is the tube that contains and directs the bullet or shot. T 14
+163 The barrel is the opening that the bullet or shot comes out of. F 14
+164 Cease Fire means to stop or put an end to. T 14
+165 Finishing the shot is called cease firing. F 14
+166 The shoulder end of the stock is called the butt. T 14
+167 The handle used to cock the BB gun in called the forearm lever. F 14
+168 The handle used to cock the BB gun is called the cocking lever. T 14
+169 The number of shots at each distance and/or each position, that make up a match, is called the course of fire. T 14
+170 The number of shots at each distance and/or each position that make up a match is called the event. F 14
+171 The area toward the target boxes is called downrange. T 14
+172 To discharge a gun is the act of pulling the trigger, to allow air or gas to escape the gun. T 14
+173 To dry fire a gun, you aim and pull the trigger of a cocked (but unloaded) gun. T 14
+174 To dry fire a gun, you aim and pull the trigger of a gun that has not been cocked or loaded. F 14
+175 A group of adult volunteers selected prior to a match to settle disputes is called the court. F 14
+176 A group of adult volunteers selected prior to a match to settle disputes is called the jury. T 14
+177 When a gun becomes blocked, congested or clogged, preventing it from working, it is considered to be jammed. T 14
+178 When something blocks or becomes stuck in the barrel, the barrel has an obstruction. T 14
+179 The end of the barrel opening where the bullet or shot emerges is called the muzzle. T 14
+180 The end of the barrel from where the bullet or shot emerges is called the action. F 14
+181 The fore end is the part of the gun stock where the cheek is placed. F 14
+182 The fore end is the part of the gun stock under the barrel and forward of the trigger. T 14
+183 The period of time for a shooter to get in position at the firing line and ready their equipment is called the ready time. F 15
+184 The period of time for a shooter to get in position at the firing line and ready their equipment is called the preparation period. T 15
+185 A relay is a group of shooters scheduled to shoot at the same time. T 15
+186 A group of shooters scheduled to shoot at the same time is called a team. F 15
+187 By definition, shots fired at the scoring surface of a target are called scoring shots. F 15
+188 By definition, shots fired at the scoring surface of a target are called record fire. T 15
+189 The range standard is the size and marked areas of the shooting range. T 15
+190 The range standard is the size and marked areas of the firing point. F 15
+191 By definition, sighting shots are shots fired to adjust sight settings. T 15
+192 By definition, practice shots are shots fired to adjust the sight settings. F 15
+193 The part around the trigger that protects the gun from accidently being fired is the trigger guard. T 15
+194 The part around the trigger that prevents the gun from accidently being fired is the trigger safety. F 15
+195 The sling swivel is the buckle used for adjusting the sling length. F 15

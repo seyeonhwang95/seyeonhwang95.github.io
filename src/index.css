@@ -9,6 +9,17 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .card-content {
+    font-family: var(--font-display);
+    color: var(--ink-strong);
+    background: transparent;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-synthesis: none;
+  }
+}
+
 @layer base {
   :root {
     --font-display: 'Fraunces', serif;
@@ -34,6 +45,10 @@
     background: radial-gradient(circle at top, rgba(255, 214, 186, 0.6), transparent 45%),
       radial-gradient(circle at 80% 20%, rgba(255, 204, 215, 0.5), transparent 50%),
       linear-gradient(180deg, #f8f4ef 0%, #f2efe8 100%);
+  }
+  
+  .card-text-muted {
+    color: var(--ink-muted);
   }
 
   h1,
@@ -114,7 +129,7 @@
   --card-foreground: #1f2937;
   --popover: #ffffff;
   --popover-foreground: #1f2937;
-  --primary: #ff4d7d;
+  --primary:#1f2937;
   --primary-foreground: #ffffff;
   --secondary: #f3f4f6;
   --secondary-foreground: #1f2937;

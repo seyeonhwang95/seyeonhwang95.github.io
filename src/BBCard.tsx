@@ -5,6 +5,8 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Checkbox } from '@/components/ui/checkbox'
 import { Progress } from '@/components/ui/progress'
+import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group'
+import { Label } from '@/components/ui/label'
 
 type QaCard = {
   id: number
@@ -178,7 +180,7 @@ function BBCard() {
         <span className="inline-flex items-center gap-2 text-sm tracking-[0.22em] uppercase text-ink-muted">
           4-H BB Gun Safety
         </span>
-        <h1 className="text-xl md:text-2xl font-display font-bold mt-4 mb-3">Flash Cards</h1>
+        <h1 className="font-display font-bold mt-4 mb-3 text-[2em]">Flash Cards</h1>
         <p className="text-[1.05rem] text-ink-muted mb-4">
           Draw a card, answer True or False, then reveal the study guide page
           number.
@@ -211,19 +213,20 @@ function BBCard() {
             
             <Progress value={progress} className="mt-4 mb-8" />
             
-            <p className="font-display text-[clamp(1.5rem,2.8vw,2.2rem)] leading-[1.5] mb-8 md:mb-10 text-ink-strong px-2">
+            <p className="card-content text-[2.8vw]">
               {current.question}
             </p>
             
             <div className={`grid gap-3 p-6 md:p-7 lg:p-8 rounded-2xl bg-slate-100 border border-dashed border-black/18 transition-all duration-300 ${
               isRevealed ? 'opacity-100 translate-y-0 max-h-[250px]' : 'opacity-0 translate-y-2.5 max-h-0 overflow-hidden p-0'
             }`}>
-              <Badge className="max-w-max w-fit">
-                {current.answer === 'T' ? 'True' : 'False'}
-              </Badge>
-              <p style={{margin: 0, fontSize: '1rem', lineHeight: 1.5, color: 'black'}}>
-                Answer: {current.answer} · Study guide page {current.page}
-              </p>
+              <div style={{margin: 0, fontSize: '1rem', lineHeight: 1.5, color: 'black'}}>
+                Answer: &nbsp;
+                <Badge className="max-w-max w-fit">
+                  {current.answer === 'T' ? 'True' : 'False'}
+                </Badge>  &nbsp;
+                Study guide page {current.page}
+              </div>
             </div>
             
             <div className="flex flex-wrap gap-3 md:gap-4 mt-10 md:mt-12">
@@ -241,7 +244,7 @@ function BBCard() {
               <Button variant="secondary" onClick={() => setIsRevealed((prev) => !prev)}>
                 {isRevealed ? 'Hide answer' : 'Show answer'}
               </Button>
-              <Button onClick={nextCard}>
+              <Button onClick={nextCard} variant={'gradient'}>
                 Next card
               </Button>
             </div>
@@ -257,40 +260,26 @@ function BBCard() {
             
             <Progress value={testProgress} className="mt-4 mb-6 md:mb-8" />
             
-            <p className="font-display text-[clamp(1.5rem,2.8vw,2.2rem)] leading-[1.5] mb-8 md:mb-10 text-ink-strong px-2">
+            <p className="card-content text-[2.8vw]">
               {testCard.question}
             </p>
             
-            <div className="grid gap-4 mt-6 mb-4" role="radiogroup" aria-label="Answer">
-              <label className="flex items-center gap-4 py-5 px-6 rounded-2xl border-2 border-black/16 bg-white/70 cursor-pointer transition-all duration-200 hover:border-pink-500/60 hover:shadow-soft">
-                <input
-                  type="radio"
-                  name="answer"
-                  value="T"
-                  checked={selectedAnswer === 'T'}
-                  onChange={() => setSelectedAnswer('T')}
-                  className="accent-pink-500 w-[20px] h-[20px]"
-                />
-                <span className="text-lg font-medium">True</span>
-              </label>
-              <label className="flex items-center gap-4 py-5 px-6 rounded-2xl border-2 border-black/16 bg-white/70 cursor-pointer transition-all duration-200 hover:border-pink-500/60 hover:shadow-soft">
-                <input
-                  type="radio"
-                  name="answer"
-                  value="F"
-                  checked={selectedAnswer === 'F'}
-                  onChange={() => setSelectedAnswer('F')}
-                  className="accent-pink-500 w-[20px] h-[20px]"
-                />
-                <span className="text-lg font-medium">False</span>
-              </label>
-            </div>
+            <RadioGroup value={selectedAnswer} onValueChange={(value) => setSelectedAnswer(value as 'T' | 'F')} className="grid gap-4 mt-6 mb-4">
+              <div className="flex items-center gap-4 py-5 px-6 rounded-2xl border-2 border-input bg-background hover:border-primary/60 hover:shadow-soft transition-all duration-200">
+                <RadioGroupItem value="T" id="answer-true" />
+                <Label htmlFor="answer-true" className="text-lg font-medium cursor-pointer flex-1">True</Label>
+              </div>
+              <div className="flex items-center gap-4 py-5 px-6 rounded-2xl border-2 border-input bg-background hover:border-primary/60 hover:shadow-soft transition-all duration-200">
+                <RadioGroupItem value="F" id="answer-false" />
+                <Label htmlFor="answer-false" className="text-lg font-medium cursor-pointer flex-1">False</Label>
+              </div>
+            </RadioGroup>
             
             <div className="flex flex-wrap gap-3 md:gap-4 mt-10 md:mt-12">
               <Button variant="outline" onClick={exitTest}>
                 Exit test
               </Button>
-              <Button onClick={submitTestAnswer} disabled={selectedAnswer === ''}>
+              <Button onClick={submitTestAnswer} variant={'gradient'} disabled={selectedAnswer === ''}>
                 Submit & Next
               </Button>
             </div>

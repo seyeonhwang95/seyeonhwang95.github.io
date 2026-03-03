@@ -5,6 +5,7 @@ import { StudyCard } from './components/StudyCard'
 import { TestCard } from './components/TestCard'
 import { TestResult } from './components/TestResult'
 import { MusicComposition } from './features/musicComposition/MusicComposition'
+import { StockTradingSimulation } from './features/stockTrading/StockTradingSimulation'
 import { parseCards } from './utils/cardUtils'
 import type { Card } from './utils/cardUtils'
 import { useStudyMode } from './hooks/useStudyMode'
@@ -112,6 +113,7 @@ function BBGunStudy() {
             isMissedOpen={test.isMissedOpen}
             onOpenMissed={() => test.setIsMissedOpen(true)}
             onCloseMissed={() => test.setIsMissedOpen(false)}
+        
             onBackToStudy={test.exitTest}
             onRetakeTest={test.startTest}
           />
@@ -133,14 +135,15 @@ function BBGunStudy() {
  * Main App Component
  */
 function App() {
-  const [currentApp, setCurrentApp] = useState<'bbgun' | 'music'>('bbgun')
+  const [currentApp, setCurrentApp] = useState<'bbgun' | 'music' | 'stock'>('bbgun')
 
   return (
     <div className="app">
-      <TopNavBar currentApp={currentApp} onAppChange={(app) => setCurrentApp(app as 'bbgun' | 'music')} />
+      <TopNavBar currentApp={currentApp} onAppChange={(app) => setCurrentApp(app as 'bbgun' | 'music' | 'stock')} />
       
       {currentApp === 'bbgun' && <BBGunStudy />}
       {currentApp === 'music' && <MusicComposition />}
+      {currentApp === 'stock' && <StockTradingSimulation />}
     </div>
   )
 }

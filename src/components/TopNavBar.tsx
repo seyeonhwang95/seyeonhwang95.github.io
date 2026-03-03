@@ -42,6 +42,11 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
                     Music Composition
                   </a>
                 </MenubarItem>
+                <MenubarItem asChild>
+                  <a href="#" onClick={() => handleAppChange('stock')}>
+                    Stock Trading Simulator
+                  </a>
+                </MenubarItem>
               </MenubarContent>
             </MenubarMenu>
           </Menubar>
@@ -70,6 +75,13 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
                 onClick={() => handleAppChange('music')}
               >
                 Music Composition
+              </a>
+              <a
+                href="#"
+                className="text-sm hover:text-primary"
+                onClick={() => handleAppChange('stock')}
+              >
+                Stock Trading Simulator
               </a>
             </div>
           </SheetContent>

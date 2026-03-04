@@ -5,6 +5,7 @@ interface TestCardProps {
   position: number
   totalQuestions: number
   progress: number
+  choices?: string[]
   selectedAnswer: string
   onSelectAnswer: (answer: string) => void
   onSubmit: () => void
@@ -16,12 +17,21 @@ export function TestCard({
   position,
   totalQuestions,
   progress,
+  choices,
   selectedAnswer,
   onSelectAnswer,
   onSubmit,
   onExit,
 }: TestCardProps) {
   if (!card) return null
+
+  const optionValues = choices && choices.length > 0 ? choices : ['T', 'F']
+
+  const labelForChoice = (choice: string) => {
+    if (choice === 'T') return 'True (T)'
+    if (choice === 'F') return 'False (F)'
+    return choice
+  }
 
   return (
     <section className="card">
@@ -38,27 +48,28 @@ export function TestCard({
 
       <p className="card__question">{card.question}</p>
 
+      {card.imageUrl ? (
+        <img
+          src={card.imageUrl}
+          alt={`Test reference for question ${card.id}`}
+          className="card__image"
+          loading="lazy"
+        />
+      ) : null}
+
       <div className="test__choices" role="radiogroup" aria-label="Answer">
-        <label className="choice">
-          <input
-            type="radio"
-            name="answer"
-            value="T"
-            checked={selectedAnswer === 'T'}
-            onChange={() => onSelectAnswer('T')}
-          />
-          <span>True</span>
-        </label>
-        <label className="choice">
-          <input
-            type="radio"
-            name="answer"
-            value="F"
-            checked={selectedAnswer === 'F'}
-            onChange={() => onSelectAnswer('F')}
-          />
-          <span>False</span>
-        </label>
+        {optionValues.map((choice) => (
+          <label key={choice} className="choice">
+            <input
+              type="radio"
+              name="answer"
+              value={choice}
+              checked={selectedAnswer === choice}
+              onChange={() => onSelectAnswer(choice)}
+            />
+            <span>{labelForChoice(choice)}</span>
+          </label>
+        ))}
       </div>
 
       <div className="card__actions">

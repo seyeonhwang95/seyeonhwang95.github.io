@@ -1,3 +1,4 @@
+import type { TestAnswer } from '@/utils/cardUtils'
 import type { Card } from '@/utils/cardUtils'
 
 interface TestResultProps {
@@ -5,6 +6,7 @@ interface TestResultProps {
   correctCount: number
   totalQuestions: number
   missedCards: Card[]
+  testAnswers: Record<number, TestAnswer>
   isMissedOpen: boolean
   onOpenMissed: () => void
   onCloseMissed: () => void
@@ -17,6 +19,7 @@ export function TestResult({
   correctCount,
   totalQuestions,
   missedCards,
+  testAnswers,
   isMissedOpen,
   onOpenMissed,
   onCloseMissed,
@@ -24,6 +27,12 @@ export function TestResult({
   onRetakeTest,
 }: TestResultProps) {
   const missedQuestionIds = missedCards.map((card) => card.id)
+
+  const formatAnswer = (answer: string) => {
+    if (answer === 'T') return 'True (T)'
+    if (answer === 'F') return 'False (F)'
+    return answer
+  }
 
   return (
     <>
@@ -91,11 +100,16 @@ export function TestResult({
               {missedCards.map((card) => (
                 <div key={card.id} className="missed__item">
                   <div className="missed__item-header">
-                    Question {card.id} · Page {card.page}
+                    Question {card.id}
+                    {card.category ? ` · ${card.category}` : ''}
+                    {card.page ? ` · Page ${card.page}` : ''}
                   </div>
                   <p className="missed__item-question">{card.question}</p>
                   <p className="missed__item-answer">
-                    Correct answer: {card.answer === 'T' ? 'True' : 'False'} ({card.answer})
+                    Your answer: {formatAnswer(testAnswers[card.id]?.answer ?? 'No answer')}
+                  </p>
+                  <p className="missed__item-answer">
+                    Correct answer: {formatAnswer(String(card.answer))}
                   </p>
                 </div>
               ))}

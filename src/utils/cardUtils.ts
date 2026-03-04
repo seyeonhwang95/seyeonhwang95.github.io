@@ -6,7 +6,10 @@ export type Card = {
   id: number
   question: string
   answer: string
-  page: string
+  page?: string
+  category?: string
+  imageUrl?: string
+  source?: string
   [key: string]: any
 }
 

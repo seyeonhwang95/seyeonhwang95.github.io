@@ -1,0 +1,1418 @@
+[
+    {
+        "id":  1,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Whole Breast â€” intact breast separated at the junction of vertebral and sternal ribs.",
+        "page":  "Parts ID #1",
+        "imageUrl":  "/poultry/parts/01-whole-breast.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  2,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Breast with Ribs â€” intact breast separated from backbone; entire rib cage remains attached.",
+        "page":  "Parts ID #2",
+        "imageUrl":  "/poultry/parts/02-breast-with-ribs.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  3,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Breast Quarter â€” half of breast with wing and back attached.",
+        "page":  "Parts ID #3",
+        "imageUrl":  "/poultry/parts/03-breast-quarter.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  4,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Breast Quarter without Wing â€” breast quarter with back attached and wing removed.",
+        "page":  "Parts ID #4",
+        "imageUrl":  "/poultry/parts/04-breast-quarter-without-wing.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  5,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Split Breast â€” whole breast cut in half parallel to the breast bone.",
+        "page":  "Parts ID #5",
+        "imageUrl":  "/poultry/parts/05-split-breast.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  6,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Boneless Breast â€” whole breast with bones removed; skin may be on or off.",
+        "page":  "Parts ID #6",
+        "imageUrl":  "/poultry/parts/06-boneless-breast.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  7,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Boneless Split Breast â€” half breast with bones removed; skin may be on or off.",
+        "page":  "Parts ID #7",
+        "imageUrl":  "/poultry/parts/07-boneless-split-breast.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  8,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Tenderloin â€” inner pectoral muscle removed from the inner breast meat.",
+        "page":  "Parts ID #8",
+        "imageUrl":  "/poultry/parts/08-tenderloin.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  9,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Leg Quarter â€” thigh and drumstick with a portion of back attached.",
+        "page":  "Parts ID #9",
+        "imageUrl":  "/poultry/parts/09-leg-quarter.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  10,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Whole Leg â€” thigh and drumstick with back removed; oyster may be attached.",
+        "page":  "Parts ID #10",
+        "imageUrl":  "/poultry/parts/10-whole-leg.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  11,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Thigh with Back â€” upper leg portion separated at the knee, including part of back.",
+        "page":  "Parts ID #11",
+        "imageUrl":  "/poultry/parts/11-thigh-with-back.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  12,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Thigh â€” upper portion of whole leg separated at knee and hip joints, no back attached.",
+        "page":  "Parts ID #12",
+        "imageUrl":  "/poultry/parts/12-thigh.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  13,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Boneless Thigh â€” whole thigh with bone removed; skin may be on or off.",
+        "page":  "Parts ID #13",
+        "imageUrl":  "/poultry/parts/13-boneless-thigh.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  14,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Drumstick â€” lower leg portion separated at hock and knee joints.",
+        "page":  "Parts ID #14",
+        "imageUrl":  "/poultry/parts/14-drumstick.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  15,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Boneless Drumstick â€” lower leg portion with bone removed.",
+        "page":  "Parts ID #15",
+        "imageUrl":  "/poultry/parts/15-boneless-drumstick.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  16,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Whole Wing â€” entire wing with muscle, bone, and skin attached; wingtip may be removed.",
+        "page":  "Parts ID #16",
+        "imageUrl":  "/poultry/parts/16-whole-wing.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  17,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Wing Drumette â€” wing section between second and third joint (shoulder side).",
+        "page":  "Parts ID #17",
+        "imageUrl":  "/poultry/parts/17-wing-drumette.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  18,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Wing Flat â€” wing section between first and second joints with two bones.",
+        "page":  "Parts ID #18",
+        "imageUrl":  "/poultry/parts/18-wing-flat.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  19,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Back â€” includes vertebral ribs, hip bones, and attached flesh; oyster may be attached.",
+        "page":  "Parts ID #19",
+        "imageUrl":  "/poultry/parts/19-back.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  20,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Neck â€” neck bones with flesh attached; skin may be present or absent.",
+        "page":  "Parts ID #20",
+        "imageUrl":  "/poultry/parts/20-neck.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  21,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Paws â€” whole foot with cuticle removed and cut midway to the hock joint.",
+        "page":  "Parts ID #21",
+        "imageUrl":  "/poultry/parts/21-paws.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  22,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Gizzard â€” thick-walled muscular organ, cross-sectioned into two halves.",
+        "page":  "Parts ID #22",
+        "imageUrl":  "/poultry/parts/22-gizzard.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  23,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Liver â€” reddish-brown, wedge-shaped organ with four unequal lobes.",
+        "page":  "Parts ID #23",
+        "imageUrl":  "/poultry/parts/23-liver.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  24,
+        "category":  "Parts ID",
+        "question":  "Identify this chicken part.",
+        "answer":  "Heart â€” triangular, four-chambered muscular organ.",
+        "page":  "Parts ID #24",
+        "imageUrl":  "/poultry/parts/24-heart.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/partsID"
+    },
+    {
+        "id":  25,
+        "category":  "RTC Carcass Grading - Overview",
+        "question":  "What are the 3 main ready-to-cook carcass grading factors?",
+        "answer":  "Exposed flesh, missing parts, and disjointed/broken bones.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  26,
+        "category":  "RTC Carcass Grading - Overview",
+        "question":  "How should you determine the final carcass grade with multiple defects?",
+        "answer":  "Always score based on the lowest-grade defect found.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  27,
+        "category":  "RTC Carcass Grading - Overview",
+        "question":  "Define what counts as \u0027exposed flesh\u0027 in carcass grading.",
+        "answer":  "Cuts, tears, or trims showing meat/flesh because the skin is missing or damaged.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  28,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "What is the maximum cut/tear allowed on the BREAST of a 2-6 lb Grade A carcass?",
+        "answer":  "Less than 1/4 inch total with no missing skin.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  29,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "For a Grade B 2-6 lb carcass, what is the flesh exposure limit on the entire BREAST?",
+        "answer":  "Up to 1/3 of the flesh can be exposed on the entire breast.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  30,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "How much exposed flesh determines a Grade C carcass on the breast?",
+        "answer":  "More than 1/3 of the flesh exposed on the entire breast.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  31,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "What is the Grade A limit for cuts on WINGS and BACK (2-6 lb carcass)?",
+        "answer":  "Up to 1 1/2 inches for Grade A.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  32,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "Are cuts/tears on a carcass additive across different parts?",
+        "answer":  "No. Cuts are cumulative only within one part, not across multiple parts.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  33,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "When do deep cuts (\u003e1/8 inch) change the carcass grade beyond exposed flesh limits?",
+        "answer":  "Deep cuts without meat removal don\u0027t change grade beyond exposed flesh designation.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  34,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "What is the maximum trim size that does NOT affect carcass grade?",
+        "answer":  "Trims not exceeding 1/8 inch thickness (nickel) and 0.75 inch diameter (quarter).",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  35,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "What happens when meat is trimmed beyond the Grade A limits from breast or legs?",
+        "answer":  "Carcass is marked NO GRADE (loss of marketable product).",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  36,
+        "category":  "RTC Carcass Grading - Exposed Flesh",
+        "question":  "Are processing cuts near vent/breast less than 1 inch acceptable?",
+        "answer":  "Yes, processing cuts less than 1 inch beyond opening are acceptable.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  37,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "Which parts are considered in missing parts grading?",
+        "answer":  "Wings, tail, and back. Missing parts elsewhere result in NO GRADE.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  38,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "What wing removal is allowed for Grade A?",
+        "answer":  "One or both wing TIPS can be removed.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  39,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "What wing removal is allowed for Grade B?",
+        "answer":  "One or both wings removed to the second joint.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  40,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "What wing removal is allowed for Grade C?",
+        "answer":  "One or both whole wings cut cleanly at body juncture without breast meat removal.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  41,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "What results in NO GRADE regarding wing removal?",
+        "answer":  "Breast meat trimmed with removal of whole wing.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  42,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "How is the tail removed for a Grade A carcass?",
+        "answer":  "Removed at its base.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  43,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "How is the back area removed for a Grade B carcass?",
+        "answer":  "Back area not wider than tail base and only halfway to hip joint.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  44,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "How is the back area removed for a Grade C carcass?",
+        "answer":  "Back area not wider than tail base but extends beyond hip joints.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  45,
+        "category":  "RTC Carcass Grading - Missing Parts",
+        "question":  "What results in NO GRADE for back/tail removal?",
+        "answer":  "Back trimmed wider than tail base resulting in meat loss.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  46,
+        "category":  "RTC Carcass Grading - Bones",
+        "question":  "Define a disjointed bone.",
+        "answer":  "Ball end of joint is out of socket; part is whole, not broken.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  47,
+        "category":  "RTC Carcass Grading - Bones",
+        "question":  "What is the difference between protruding and non-protruding broken bones?",
+        "answer":  "Non-protruding: bone broken but doesn\u0027t come through skin. Protruding: bone ruptures through skin.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  48,
+        "category":  "RTC Carcass Grading - Bones",
+        "question":  "How many disjointed/broken bones are allowed on a Grade A?",
+        "answer":  "One disjointed bone; NO broken bones allowed.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  49,
+        "category":  "RTC Carcass Grading - Bones",
+        "question":  "What combinations are allowed on a Grade B carcass?",
+        "answer":  "Two disjointed bones OR one disjointed and one non-protruding broken bone.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  50,
+        "category":  "RTC Carcass Grading - Bones",
+        "question":  "What bone defects make a carcass Grade C?",
+        "answer":  "More than two disjointed or non-protruding broken bones, or ANY protruding broken bones.",
+        "page":  "RTC Carcasses",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  51,
+        "category":  "RTC Parts Grading",
+        "question":  "Which 10 parts are used in 4-H RTC parts grading?",
+        "answer":  "Breast quarter, breast quarter without wing, leg quarter, whole leg, thigh, thigh with back, drumstick, whole wing, wing drumette, wing flat.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  52,
+        "category":  "RTC Parts Grading",
+        "question":  "For broiler parts (2-6 lb), what skin cut allows Grade A exposed flesh?",
+        "answer":  "A cut up to 1/4 inch.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  53,
+        "category":  "RTC Parts Grading",
+        "question":  "How much skin must remain attached on a Grade A part?",
+        "answer":  "At least 75 percent of normal skin cover must remain attached.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  54,
+        "category":  "RTC Parts Grading",
+        "question":  "How much exposed flesh is allowed for Grade B parts?",
+        "answer":  "Up to 1/3 of the flesh on the entire part.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  55,
+        "category":  "RTC Parts Grading",
+        "question":  "Which parts can have disjointed bones in parts grading?",
+        "answer":  "Thighs with back, whole legs, leg quarters, and whole wings.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  56,
+        "category":  "RTC Parts Grading",
+        "question":  "Can Grade A leg quarters have disjointed bones?",
+        "answer":  "Yes, femur may be disjointed from hip socket in Grade A.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  57,
+        "category":  "RTC Parts Grading",
+        "question":  "What grade results from any disjointed wing?",
+        "answer":  "Any disjointed wing automatically results in Grade B.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  58,
+        "category":  "RTC Parts Grading",
+        "question":  "What happens with broken or cut bones in parts grading?",
+        "answer":  "Any broken or cut bone automatically results in Grade C.",
+        "page":  "RTC Parts",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  59,
+        "category":  "Breaded Products",
+        "question":  "List the 5 judging criteria for breaded boneless poultry products.",
+        "answer":  "Coating defect, consistency of shape/size, cluster/aggregate, completeness of product, foreign material.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  60,
+        "category":  "Breaded Products - Coating",
+        "question":  "What continuous void size is a defect on PATTIES?",
+        "answer":  "Continuous void greater than 1/2 inch.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  61,
+        "category":  "Breaded Products - Coating",
+        "question":  "What continuous void size is a defect on NUGGETS/TENDERS?",
+        "answer":  "Continuous void greater than 1/4 inch.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  62,
+        "category":  "Breaded Products - Coating",
+        "question":  "Are coating voids on a single product additive?",
+        "answer":  "No, voids on one product are not added together.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  63,
+        "category":  "Breaded Products - Coating Color",
+        "question":  "What color breading is expected?",
+        "answer":  "A golden-brown color.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  64,
+        "category":  "Breaded Products - Coating Color",
+        "question":  "When is uneven color a defect in a group of 3 products?",
+        "answer":  "When one product is noticeably darker/lighter than the other two.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  65,
+        "category":  "Breaded Products - Coating Color",
+        "question":  "For single products, when is color a defect?",
+        "answer":  "When not uniform across item; has dark, burnt, or contrasting colored areas.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  66,
+        "category":  "Breaded Products - Shape/Size",
+        "question":  "When is shape/size consistency a defect?",
+        "answer":  "Substantial differences in shape/size affecting consumer preferences/cook times.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  67,
+        "category":  "Breaded Products - Cluster",
+        "question":  "What defines a cluster defect?",
+        "answer":  "Two or more pieces appear fused together with breading.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  68,
+        "category":  "Breaded Products - Cluster",
+        "question":  "If products are just touching, is it a cluster defect?",
+        "answer":  "No, they must appear fused together with breading.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  69,
+        "category":  "Breaded Products - Completeness",
+        "question":  "Define incomplete break in breaded products.",
+        "answer":  "Product has a break or tear in meat that is clearly visible.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  70,
+        "category":  "Breaded Products - Completeness",
+        "question":  "Define complete break in breaded products.",
+        "answer":  "Product is broken apart and displayed as two pieces or part of a piece.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  71,
+        "category":  "Breaded Products - Foreign Material",
+        "question":  "What are examples of foreign materials?",
+        "answer":  "Feathers, plastic, metal, rubber, glass, wood, or any non-food objects.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  72,
+        "category":  "Breaded Products - Scoring",
+        "question":  "When one defect causes other defects, how do you score?",
+        "answer":  "Record main defect only; don\u0027t record secondary defects caused by primary one.",
+        "page":  "Breaded Products",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  73,
+        "category":  "Egg Grading - General",
+        "question":  "Is egg quality related to egg size or shell color?",
+        "answer":  "No, egg quality is independent of size and shell color.",
+        "page":  "Eggs Introduction",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/introduction"
+    },
+    {
+        "id":  74,
+        "category":  "Egg Exterior Grading",
+        "question":  "What grades are used for contest egg exterior grading?",
+        "answer":  "A, B, Dirty, or Loss.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  75,
+        "category":  "Egg Exterior Grading - Cleanliness",
+        "question":  "Can Grade A eggs show stains or marks?",
+        "answer":  "Yes, small specks, stains, or cage marks that don\u0027t detract from appearance.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  76,
+        "category":  "Egg Exterior Grading - Cleanliness",
+        "question":  "Define cage marks.",
+        "answer":  "Marks or translucent lines from rusty/dirty cage wires or roll-out trays.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  77,
+        "category":  "Egg Exterior Grading - Cleanliness",
+        "question":  "For Grade B with ONE stain (localized), what is the maximum stain size?",
+        "answer":  "Less than 1/32 of entire shell.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  78,
+        "category":  "Egg Exterior Grading - Cleanliness",
+        "question":  "For Grade B with MULTIPLE stains (scattered), what is maximum total stain?",
+        "answer":  "Less than 1/16 of entire shell.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  79,
+        "category":  "Egg Exterior Grading - Cleanliness",
+        "question":  "What classification are prominent stains?",
+        "answer":  "Dirty eggs.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  80,
+        "category":  "Egg Exterior Grading - Cleanliness",
+        "question":  "What is adhering material vs small specks?",
+        "answer":  "Adhering material = 3-D objects like feathers. Small specks = dust/lint (ignored).",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  81,
+        "category":  "Egg Exterior Grading - Shape",
+        "question":  "What egg shapes are Grade A?",
+        "answer":  "A considerable range of approximately normal shape (not spherical/round or too long).",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  82,
+        "category":  "Egg Exterior Grading - Shape",
+        "question":  "When is an egg Grade B for shape?",
+        "answer":  "When spherical/round, too long for carton, clearly misshapen, or has flat areas.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  83,
+        "category":  "Egg Exterior Grading - Texture",
+        "question":  "What is the maximum size of calcium deposits for Grade A?",
+        "answer":  "Less than 1/8 inch diameter (multiple deposits OK if each \u003c1/8 inch).",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  84,
+        "category":  "Egg Exterior Grading - Texture",
+        "question":  "When are calcium deposits a Grade B defect?",
+        "answer":  "When any deposit is larger than 1/8 inch in diameter.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  85,
+        "category":  "Egg Exterior Grading - Texture",
+        "question":  "What shell roughness is acceptable for Grade A?",
+        "answer":  "Slight rough areas that don\u0027t materially affect shape or shell strength.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  86,
+        "category":  "Egg Exterior Grading - Texture",
+        "question":  "When is rough shell texture a Grade B defect?",
+        "answer":  "Extremely rough areas that may be faulty in soundness or strength.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  87,
+        "category":  "Egg Exterior Grading - Ridges",
+        "question":  "When are shell ridges a Grade B defect?",
+        "answer":  "When they are large and result in weakened shells.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  88,
+        "category":  "Egg Exterior Grading - Shell Thickness",
+        "question":  "What is required for Grade A shell thickness?",
+        "answer":  "Thick shells with NO thin spots; withstand reasonable handling.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  89,
+        "category":  "Egg Exterior Grading - Shell Thickness",
+        "question":  "Define a window on eggshell.",
+        "answer":  "Small three-dimensional thin spot (distinct from cage marks).",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  90,
+        "category":  "Egg Exterior Grading - Body Checks",
+        "question":  "What is a body check?",
+        "answer":  "Shell looks cracked but is intact; crack and then partial calcification during formation.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  91,
+        "category":  "Egg Exterior Grading - Body Checks",
+        "question":  "What grade is a body check egg?",
+        "answer":  "Grade B (shell intact but weak).",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  92,
+        "category":  "Egg Exterior Grading - Loss Eggs",
+        "question":  "What is a check egg?",
+        "answer":  "Cracked shell but intact membrane; contents don\u0027t leak = Loss grade.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  93,
+        "category":  "Egg Exterior Grading - Loss Eggs",
+        "question":  "What is a leaker egg?",
+        "answer":  "Cracked shell where contents exude or are free to exude = Loss grade.",
+        "page":  "Egg Exterior",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  94,
+        "category":  "Egg Interior Grading - Candling",
+        "question":  "How should you hold an egg for candling?",
+        "answer":  "Small end between thumb/first two fingers; large end to light in slanting position.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  95,
+        "category":  "Egg Interior Grading - Candling",
+        "question":  "What causes yolk movement to increase in older eggs?",
+        "answer":  "Albumen thins as egg ages; yolk moves more freely and approaches shell.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  96,
+        "category":  "Egg Interior Grading - Candling",
+        "question":  "What does minimal yolk movement indicate?",
+        "answer":  "Fresh egg with firm, thick white; yolk surrounded by dense albumen layer.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  97,
+        "category":  "Egg Interior Grading - Blood/Meat Spots",
+        "question":  "What size blood/meat spots are Grade B?",
+        "answer":  "Small spots totaling less than 1/8 inch diameter.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  98,
+        "category":  "Egg Interior Grading - Blood/Meat Spots",
+        "question":  "What size blood/meat spots are Loss grade?",
+        "answer":  "Large spots greater than 1/8 inch diameter.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  99,
+        "category":  "Egg Interior Grading - Blood/Meat Spots",
+        "question":  "Define chalaza and how to distinguish from blood spot.",
+        "answer":  "Mucin fibers holding yolk centered; has bright refracted light unlike blood spots.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  100,
+        "category":  "Egg Interior Grading - Air Cell",
+        "question":  "What air cell depth is Grade AA?",
+        "answer":  "1/8 inch deep or less.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  101,
+        "category":  "Egg Interior Grading - Air Cell",
+        "question":  "What air cell depth is Grade A?",
+        "answer":  "Greater than 1/8 inch but less than 3/16 inch.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  102,
+        "category":  "Egg Interior Grading - Air Cell",
+        "question":  "What air cell depth is Grade B?",
+        "answer":  "More than 3/16 inch.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  103,
+        "category":  "Egg Interior Grading - Air Cell",
+        "question":  "Why does air cell size increase as egg ages?",
+        "answer":  "Evaporation occurs, causing air cell to expand.",
+        "page":  "Egg Candling",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  104,
+        "category":  "Egg Broken-Out Grading",
+        "question":  "Describe Grade AA broken-out egg appearance.",
+        "answer":  "Thick albumen maintains egg shape; yolk sits high off plate.",
+        "page":  "Egg Broken-Out",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  105,
+        "category":  "Egg Broken-Out Grading",
+        "question":  "Describe Grade A broken-out egg appearance.",
+        "answer":  "Albumen losing egg shape, rounding edges, sits lower; can\u0027t see under yolk.",
+        "page":  "Egg Broken-Out",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  106,
+        "category":  "Egg Broken-Out Grading",
+        "question":  "Describe Grade B broken-out egg appearance.",
+        "answer":  "Yolk is flattened; thick albumen is mostly gone.",
+        "page":  "Egg Broken-Out",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  107,
+        "category":  "Egg Broken-Out Grading",
+        "question":  "When grading broken-out eggs, which measurement is most important?",
+        "answer":  "Height of thick albumen (side view).",
+        "page":  "Egg Broken-Out",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  108,
+        "category":  "Egg Broken-Out Grading",
+        "question":  "Should you compare eggs when grading broken-out quality?",
+        "answer":  "No, evaluate each egg on its own merit to avoid setting incorrect standards.",
+        "page":  "Egg Broken-Out",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  109,
+        "category":  "Contest Rules",
+        "question":  "Should marination injection marks affect grading?",
+        "answer":  "No, ignore them; officials announce their presence.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  110,
+        "category":  "Contest Rules",
+        "question":  "Should off-color or dried-out areas affect carcass grade?",
+        "answer":  "No, do not grade based on off-color, bruised, or discolored dried areas.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  111,
+        "category":  "Contest Rules",
+        "question":  "Are feathers/pin-feathers considered in carcass grading?",
+        "answer":  "No, feathers/pin-feathers are NOT a quality factor.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  112,
+        "category":  "Contest Rules",
+        "question":  "Can you touch/handle carcasses during judging?",
+        "answer":  "No, but you can turn shackle to see all parts.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  113,
+        "category":  "Contest Rules",
+        "question":  "What weight categories are used in 4-H contest carcass grading?",
+        "answer":  "Only first two: broilers (2-6 lb) and heavy broilers.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  114,
+        "category":  "Contest Rules",
+        "question":  "Can any weight category be used for RTC parts grading?",
+        "answer":  "Yes, broiler, heavy broiler, and turkey parts can be used.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/RTCpartsGrading"
+    },
+    {
+        "id":  115,
+        "category":  "Contest Rules",
+        "question":  "Can cracked/dirty eggs be used in contests?",
+        "answer":  "No, they are removed as Loss eggs.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  116,
+        "category":  "Contest Rules",
+        "question":  "Can excessively speckled brown eggs be used?",
+        "answer":  "No, they should not be used in contests.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  117,
+        "category":  "Contest Rules",
+        "question":  "Can handlers touch eggs during exterior grading?",
+        "answer":  "No, eggs are placed sideways on cartons; assume unseen side is clean.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  118,
+        "category":  "Contest Rules",
+        "question":  "How many weight classes are considered for determining defects?",
+        "answer":  "Two weight classes used for cut/tear sizing (broiler vs. heavy broiler).",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  119,
+        "category":  "Study Tips",
+        "question":  "How should contestants approach judging whole carcasses?",
+        "answer":  "Learn by looking at one part at a time; carcass has 6 parts: 2 wings, 2 legs, breast, back.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  120,
+        "category":  "Study Tips",
+        "question":  "When you are judging breaded products, what should you evaluate?",
+        "answer":  "Only fully visible portions since contestants cannot handle products.",
+        "page":  "General",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  121,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grades are shown in this image based on breast cuts and tears?",
+        "answer":  "Grade A (less than 1/4 inch exposed), Grade B (up to 1/3 flesh exposed), and Grade C (more than 1/3 flesh exposed).",
+        "page":  "Exposed Flesh",
+        "imageUrl":  "/poultry/imported/img-037.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  122,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grade are these carcasses with deep cuts (deeper than 1/8 inch)?",
+        "answer":  "Grade B - cuts deeper than 1/8 inch without meat removal do not change the grade beyond what is designated for exposed flesh.",
+        "page":  "Exposed Flesh",
+        "imageUrl":  "/poultry/imported/img-038.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  123,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grades are shown based on meat trim in this image?",
+        "answer":  "Trims that exceed 1/8 inch thick or 0.75 inches diameter on breast/legs result in NO GRADE due to altered meat yield.",
+        "page":  "Exposed Flesh",
+        "imageUrl":  "/poultry/imported/img-039.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  124,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grades are shown based on back and wing cuts?",
+        "answer":  "Grade A (cut up to 1Â½ inches), Grade B (up to 1/3 flesh exposed), Grade C (more than 1/3 flesh exposed).",
+        "page":  "Exposed Flesh",
+        "imageUrl":  "/poultry/imported/img-040.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  125,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grade is this carcass with a processing cut at the neck and keel tip?",
+        "answer":  "Grade A - processing cuts less than 1 inch beyond the opening are acceptable. (Ignore marination injection marks.)",
+        "page":  "Exposed Flesh",
+        "imageUrl":  "/poultry/imported/img-041.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  126,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grade is this carcass with processing cuts at neck and keel tip?",
+        "answer":  "Grade B - processing cuts larger than 1 inch downgrade to Grade B.",
+        "page":  "Exposed Flesh",
+        "imageUrl":  "/poultry/imported/img-042.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  127,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grades are shown based on missing wings?",
+        "answer":  "Grade A (wing tips removed), Grade B (wing to second joint), Grade C (whole wing removed cleanly), NO GRADE (breast meat removed with wing).",
+        "page":  "Missing Parts",
+        "imageUrl":  "/poultry/imported/img-043.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  128,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What anatomical references are shown for missing backs?",
+        "answer":  "Tail base, hip joints, and width measurements used to determine grade for missing back portions.",
+        "page":  "Missing Parts",
+        "imageUrl":  "/poultry/imported/img-035.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  129,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grades are shown based on missing tail and back?",
+        "answer":  "Grade A (tail removed at base), Grade B (back not wider than tail base to halfway to hip), Grade C (beyond hip joints), NO GRADE (wider than tail base).",
+        "page":  "Missing Parts",
+        "imageUrl":  "/poultry/imported/img-044.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  130,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grade are these carcasses with one disjointed bone?",
+        "answer":  "Grade A - can have one disjointed bone (wing or leg shown). Compare how disjointed parts hang differently.",
+        "page":  "Disjointed/Broken Bones",
+        "imageUrl":  "/poultry/imported/img-045.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  131,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grade are these carcasses with two disjoints?",
+        "answer":  "Grade B - can have two disjointed bones (shown: two wings, or one wing plus one leg).",
+        "page":  "Disjointed/Broken Bones",
+        "imageUrl":  "/poultry/imported/img-046.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  132,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grade are these carcasses with broken non-protruding bones?",
+        "answer":  "Grade B - can have one broken non-protruding bone (shown: broken wing and broken drumstick).",
+        "page":  "Disjointed/Broken Bones",
+        "imageUrl":  "/poultry/imported/img-047.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  133,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "What grade are these carcasses with protruding broken bones?",
+        "answer":  "Grade C - any protruding broken bone makes the carcass Grade C (shown: broken wing and broken drumstick).",
+        "page":  "Disjointed/Broken Bones",
+        "imageUrl":  "/poultry/imported/img-048.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  134,
+        "category":  "RTC Carcass Grading - Visual",
+        "question":  "How are carcasses displayed for judging?",
+        "answer":  "Hung from shackles either by both legs or one leg. Cannot be touched during judging; tilt shackle to check for broken bones.",
+        "page":  "General Setup",
+        "imageUrl":  "/poultry/imported/img-036.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/RTCgrading"
+    },
+    {
+        "id":  135,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What do clean, normal-shaped Grade A eggs look like?",
+        "answer":  "Clean appearance with regular oval shape. Both white and brown eggs shown meeting Grade A cleanliness standards.",
+        "page":  "Cleanliness",
+        "imageUrl":  "/poultry/imported/img-011.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  136,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What are cage marks and how do they affect grading?",
+        "answer":  "Marks/translucent lines from cage wires. Small marks not detracting from appearance = Grade A; darker marks detracting = Grade B; large 3D marks = dirty.",
+        "page":  "Cleanliness",
+        "imageUrl":  "/poultry/imported/img-012.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  137,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What do the 1/16 and 1/32 shell area references look like?",
+        "answer":  "Visual reference showing relative shell areas: Grade B allows localized stain \u003c1/32 or scattered stains \u003c1/16 of entire shell.",
+        "page":  "Cleanliness",
+        "imageUrl":  "/poultry/imported/img-002.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  138,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What grades result from different stain patterns?",
+        "answer":  "Shows localized vs scattered stains. Grade B: single stain \u003c1/32 or multiple \u003c1/16 total. Larger stains = dirty.",
+        "page":  "Cleanliness",
+        "imageUrl":  "/poultry/imported/img-013.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  139,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What types of adhering material are shown?",
+        "answer":  "Manure, feather, and egg yolk. Adhering material (3-dimensional) larger than a speck = dirty egg.",
+        "page":  "Cleanliness",
+        "imageUrl":  "/poultry/imported/img-030.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  140,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What shape defects result in Grade B?",
+        "answer":  "Eggs that are too round (spherical) or too long to fit in carton. Also misshapen or with definite flat areas.",
+        "page":  "Shape",
+        "imageUrl":  "/poultry/imported/img-031.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  141,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "How do calcium deposits affect egg grading?",
+        "answer":  "Grade A: each deposit \u003c1/8 inch (any number allowed). Grade B: any deposit â‰¥1/8 inch diameter.",
+        "page":  "Texture",
+        "imageUrl":  "/poultry/imported/img-027.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  142,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What grade are eggs with extreme shell roughness?",
+        "answer":  "Grade B - extreme rough areas that may be faulty in soundness or strength. (Grade A may have slight rough areas.)",
+        "page":  "Texture",
+        "imageUrl":  "/poultry/imported/img-032.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  143,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What grade are eggs with large shell ridges?",
+        "answer":  "Grade B - large ridges result in weakened shells.",
+        "page":  "Ridges",
+        "imageUrl":  "/poultry/imported/img-033.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  144,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What grade are eggs with thin spots or \u0027windows\u0027?",
+        "answer":  "Grade B - thin shells or thin spots (windows must be 3-dimensional). Grade A must have thick shells with no thin spots.",
+        "page":  "Shell Thickness",
+        "imageUrl":  "/poultry/imported/img-028.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  145,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What is a body check and what grade is it?",
+        "answer":  "Grade B - shell looks cracked but is intact. Occurs during shell formation when cracked then partially calcified before laying. Shell is weak when candled.",
+        "page":  "Body Checks",
+        "imageUrl":  "/poultry/imported/img-029.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  146,
+        "category":  "Egg Exterior Grading - Visual",
+        "question":  "What grade is a cracked egg?",
+        "answer":  "Loss - broken shell or crack in shell (even if membranes intact and contents don\u0027t leak). Also called \u0027checked\u0027 egg.",
+        "page":  "Loss Eggs",
+        "imageUrl":  "/poultry/imported/img-001.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/exteriorgrading"
+    },
+    {
+        "id":  147,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defect is shown in this chicken patty?",
+        "answer":  "COATING DEFECT - continuous breading void greater than Â½ inch in diameter (patties must have voids \u003eÂ½ inch to be defect).",
+        "page":  "Coating Coverage",
+        "imageUrl":  "/poultry/imported/img-022.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  148,
+        "category":  "Breaded Products - Visual",
+        "question":  "Is this chicken patty defective?",
+        "answer":  "No defect - coating void is less than Â½ inch. Patties need continuous void \u003eÂ½ inch to be coating defect.",
+        "page":  "Coating Coverage",
+        "imageUrl":  "/poultry/imported/img-021.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  149,
+        "category":  "Breaded Products - Visual",
+        "question":  "Is this chicken patty with two coating voids defective?",
+        "answer":  "No defect - each void is less than Â½ inch. Voids on a single product are NOT added together.",
+        "page":  "Coating Coverage",
+        "imageUrl":  "/poultry/imported/img-024.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  150,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defect is shown in this chicken patty?",
+        "answer":  "COATING DEFECT - uneven color with burnt breading. Color should be uniform across product without dark burnt areas or contrasting colors.",
+        "page":  "Coating Color",
+        "imageUrl":  "/poultry/imported/img-015.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  151,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defect is shown between these two patties?",
+        "answer":  "CONSISTENCY OF SHAPE/SIZE DEFECT - right patty is not circular compared to left. Clear differences in uniformity of shape/size across samples.",
+        "page":  "Shape/Size",
+        "imageUrl":  "/poultry/imported/img-017.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  152,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defect is shown with these overlapping patties?",
+        "answer":  "CLUSTER/AGGREGATE OF PRODUCTS - two patties fused together with breading (not just touching). May not cook properly.",
+        "page":  "Cluster",
+        "imageUrl":  "/poultry/imported/img-014.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  153,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defect is shown in this chicken patty?",
+        "answer":  "COMPLETENESS OF PRODUCT - incomplete break (break/tear in meat clearly visible but not separated).",
+        "page":  "Completeness",
+        "imageUrl":  "/poultry/imported/img-023.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  154,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defect is shown in this broken chicken patty?",
+        "answer":  "COMPLETENESS OF PRODUCT - complete break (product broken apart and displayed in two pieces or as partial piece).",
+        "page":  "Completeness",
+        "imageUrl":  "/poultry/imported/img-016.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  155,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defect is shown in these chicken patties?",
+        "answer":  "FOREIGN MATERIAL - protruding piece of non-food object (feathers, plastic, metal, rubber, glass, wood).",
+        "page":  "Foreign Material",
+        "imageUrl":  "/poultry/imported/img-018.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  156,
+        "category":  "Breaded Products - Visual",
+        "question":  "What multiple defects are shown in these patties?",
+        "answer":  "Left: COMPLETENESS OF PRODUCT + COATING DEFECT. Right: COMPLETENESS + COATING + FOREIGN MATERIAL (three defects).",
+        "page":  "Multiple Defects",
+        "imageUrl":  "/poultry/imported/img-019.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  157,
+        "category":  "Breaded Products - Visual",
+        "question":  "What defects are present in this group of patties?",
+        "answer":  "COATING DEFECT on 1st and 2nd (burnt/missing coating), COMPLETENESS on 3rd (break), CONSISTENCY OF SHAPE/SIZE (difference between patties).",
+        "page":  "Multiple Defects",
+        "imageUrl":  "/poultry/imported/img-020.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketpoultry/breadedpatties"
+    },
+    {
+        "id":  158,
+        "category":  "Egg Candling - Visual",
+        "question":  "What is the proper technique for holding an egg for candling?",
+        "answer":  "Hold small end between thumb and first two fingers. Place large end up to candling light in slanting position. Turn wrist back and forth to twirl contents.",
+        "page":  "Candling Technique",
+        "imageUrl":  "/poultry/imported/img-007.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  159,
+        "category":  "Egg Candling - Visual",
+        "question":  "How do you use the USDA air cell gauge for grading?",
+        "answer":  "Hold gauge to candled egg. Grade AA: â‰¤1/8 inch, Grade A: \u003e1/8 to \u003c3/16 inch, Grade B: â‰¥3/16 inch air cell depth.",
+        "page":  "Air Cell Measurement",
+        "imageUrl":  "/poultry/imported/img-008.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  160,
+        "category":  "Egg Candling - Visual",
+        "question":  "What grades do these air cell depths represent?",
+        "answer":  "1) Grade AA (\u003c1/8\"), 2) Grade A (\u003e1/8\"), 3) Same Grade A egg (\u003c3/16\"), 4) Grade B (\u003e3/16\").",
+        "page":  "Air Cell Examples",
+        "imageUrl":  "/poultry/imported/img-009.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/candling"
+    },
+    {
+        "id":  161,
+        "category":  "Egg Broken-Out - Visual",
+        "question":  "What type of spot is shown in this broken-out egg?",
+        "answer":  "Blood spot on the yolk. If blood/meat spots total \u003c1/8 inch diameter = Grade B; if â‰¥1/8 inch = Loss.",
+        "page":  "Blood Spots",
+        "imageUrl":  "/poultry/imported/img-003.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  162,
+        "category":  "Egg Broken-Out - Visual",
+        "question":  "What type of spot is shown in this broken-out egg?",
+        "answer":  "Meat spot in the albumen. If blood/meat spots total \u003c1/8 inch diameter = Grade B; if â‰¥1/8 inch = Loss.",
+        "page":  "Meat Spots",
+        "imageUrl":  "/poultry/imported/img-026.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  163,
+        "category":  "Egg Broken-Out - Visual",
+        "question":  "What is shown in the albumen of this broken-out egg?",
+        "answer":  "Chalaza (NOT a meat spot). Chalazae are mucin fiber strands holding yolk in center - distinguished by bright refracted light area with darker shadow.",
+        "page":  "Chalaza",
+        "imageUrl":  "/poultry/imported/img-004.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  164,
+        "category":  "Egg Broken-Out - Visual",
+        "question":  "What grade is this broken-out egg?",
+        "answer":  "Grade AA - thick albumen in egg shape, yolk sits high off plate. Evaluate height of thick albumen (side view), not just diameter.",
+        "page":  "Grade AA",
+        "imageUrl":  "/poultry/imported/img-005.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  165,
+        "category":  "Egg Broken-Out - Visual",
+        "question":  "What grade is this broken-out egg?",
+        "answer":  "Grade A - albumen losing egg shape, sits lower on plate. Edges of thick albumen have rounding. Cannot see under the yolk.",
+        "page":  "Grade A",
+        "imageUrl":  "/poultry/imported/img-034.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  166,
+        "category":  "Egg Broken-Out - Visual",
+        "question":  "What grade is this broken-out egg?",
+        "answer":  "Grade B - yolk is flattened, thick albumen is almost all gone. Evaluate each egg on its own merit, don\u0027t compare with others.",
+        "page":  "Grade B",
+        "imageUrl":  "/poultry/imported/img-006.png",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  167,
+        "category":  "Egg Broken-Out - Visual",
+        "question":  "What are the USDA standards for broken-out egg grades?",
+        "answer":  "Visual chart showing Grade AA (high, firm albumen), Grade A (reasonably firm), Grade B (weak, watery albumen with flat yolk).",
+        "page":  "Grading Standards",
+        "imageUrl":  "/poultry/imported/img-025.jpg",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/brokenouts"
+    },
+    {
+        "id":  168,
+        "category":  "Egg Introduction - Visual",
+        "question":  "What are the labeled parts of an egg shown?",
+        "answer":  "Shell, air cell, membranes, chalazae (holding yolk in center), albumen (egg white), yolk, germinal disc.",
+        "page":  "Egg Anatomy",
+        "imageUrl":  "/poultry/imported/img-010.gif",
+        "source":  "https://national4hpoultry.mgcafe.uky.edu/marketeggs/introduction"
+    }
+]

@@ -12,8 +12,9 @@ interface StudyCardProps {
   onReshuffle: () => void
   onToggleReveal: (revealed: boolean) => void
   onNextCard: () => void
-  onStartTest: () => void
+  onStartTest?: () => void
   onReviewFocused: () => void
+  showTestButton?: boolean
 }
 
 export function StudyCard({
@@ -30,8 +31,20 @@ export function StudyCard({
   onNextCard,
   onStartTest,
   onReviewFocused,
+  showTestButton = true,
 }: StudyCardProps) {
   if (!card) return null
+
+  const handleCardClick = () => {
+    onToggleReveal(!isRevealed)
+  }
+
+  const answerBadge = card.answer === 'T' ? 'True' : card.answer === 'F' ? 'False' : 'Answer'
+  const answerDetail = card.answer === 'T' || card.answer === 'F'
+    ? `Answer: ${card.answer}`
+    : card.answer
+  const answerCategory = card.category ?? 'N/A'
+  const answerPage = card.page ?? 'N/A'
 
   return (
     <section className="card">
@@ -40,7 +53,9 @@ export function StudyCard({
           Card {position + 1} of {totalCards}
         </span>
         <span>
-          Question {card.id} · Page {card.page}
+          Question {card.id}
+          {card.category ? ` · ${card.category}` : ''}
+          {card.page ? ` · ${card.page}` : ''}
         </span>
       </div>
 
@@ -57,15 +72,50 @@ export function StudyCard({
         <span style={{ width: `${progress}%` }} />
       </div>
 
-      <p className="card__question">{card.question}</p>
-
-      <div className={`card__answer ${isRevealed ? 'is-revealed' : ''}`}>
-        <div className="answer__badge">
-          {card.answer === 'T' ? 'True' : 'False'}
+      <div
+        className={`card__flipper ${isRevealed ? 'is-flipped' : ''}`}
+        onClick={handleCardClick}
+        role="button"
+        tabIndex={0}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault()
+            handleCardClick()
+          }
+        }}
+      >
+        <div className="card__face card__front">
+          <p className="card__question">{card.question}</p>
+          {card.imageUrl ? (
+            <img
+              src={card.imageUrl}
+              alt={`Flashcard reference for question ${card.id}`}
+              className="card__image"
+              loading="lazy"
+            />
+          ) : null}
+          <div className="card__hint">Click to reveal answer</div>
         </div>
-        <p className="answer__detail">
-          Answer: {card.answer} · Study guide page {card.page}
-        </p>
+
+        <div className="card__face card__back">
+          <div className="card__answer">
+            <div className="answer__badge">{answerBadge}</div>
+            <p className="answer__detail">{answerDetail}</p>
+            <p className="answer__detail">Category: {answerCategory}</p>
+            <p className="answer__detail">Page: {answerPage}</p>
+            {card.source ? (
+              <a
+                href={card.source}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="answer__source"
+              >
+                Source reference
+              </a>
+            ) : null}
+          </div>
+          <div className="card__hint">Click to hide answer</div>
+        </div>
       </div>
 
       <div className="card__actions">
@@ -81,16 +131,12 @@ export function StudyCard({
             Review {focusedCount} card{focusedCount > 1 ? 's' : ''}
           </button>
         ) : null}
-        <button className="btn" type="button" onClick={onStartTest}>
-          Start test
-        </button>
-        <button
-          className="btn"
-          type="button"
-          onClick={() => onToggleReveal(!isRevealed)}
-        >
-          {isRevealed ? 'Hide answer' : 'Show answer'}
-        </button>
+        {showTestButton && onStartTest ? (
+          <button className="btn" type="button" onClick={onStartTest}>
+            Start test
+          </button>
+        ) : null}
+
         <button className="btn btn--primary" type="button" onClick={onNextCard}>
           Next card
         </button>

@@ -33,11 +33,16 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
               <MenubarTrigger>Apps</MenubarTrigger>
               <MenubarContent>
                 <MenubarItem asChild>
+                  <a href="#" onClick={() => handleAppChange('poultry')}>
+                    Poultry Judging Cards
+                  </a>
+                </MenubarItem>
+                <MenubarItem asChild>
                   <a href="/" onClick={() => handleAppChange('bbgun')}>
                     BB Gun Study
                   </a>
                 </MenubarItem>
-                <MenubarItem asChild>
+                {/* <MenubarItem asChild>
                   <a href="#" onClick={() => handleAppChange('music')}>
                     Music Composition
                   </a>
@@ -46,7 +51,7 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
                   <a href="#" onClick={() => handleAppChange('stock')}>
                     Stock Trading Simulator
                   </a>
-                </MenubarItem>
+                </MenubarItem> */}
               </MenubarContent>
             </MenubarMenu>
           </Menubar>
@@ -82,6 +87,13 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
                 onClick={() => handleAppChange('stock')}
               >
                 Stock Trading Simulator
+              </a>
+              <a
+                href="#"
+                className="text-sm hover:text-primary"
+                onClick={() => handleAppChange('poultry')}
+              >
+                Poultry Judging Cards
               </a>
             </div>
           </SheetContent>

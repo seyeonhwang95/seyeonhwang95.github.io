@@ -43,8 +43,6 @@ export function StudyCard({
   const answerDetail = card.answer === 'T' || card.answer === 'F'
     ? `Answer: ${card.answer}`
     : card.answer
-  const answerCategory = card.category ?? 'N/A'
-  const answerPage = card.page ?? 'N/A'
 
   return (
     <section className="card">
@@ -101,8 +99,12 @@ export function StudyCard({
           <div className="card__answer">
             <div className="answer__badge">{answerBadge}</div>
             <p className="answer__detail">{answerDetail}</p>
-            <p className="answer__detail">Category: {answerCategory}</p>
-            <p className="answer__detail">Page: {answerPage}</p>
+            {card.category ? (
+              <p className="answer__detail">Category: {card.category}</p>
+            ) : null}
+            {card.page ? (
+              <p className="answer__detail">Page: {card.page}</p>
+            ) : null}
             {card.source ? (
               <a
                 href={card.source}

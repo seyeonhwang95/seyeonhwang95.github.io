@@ -15,10 +15,26 @@ interface TopNavBarProps {
   onAppChange?: (app: string) => void
 }
 
-export function TopNavBar({ onAppChange }: TopNavBarProps) {
+export function TopNavBar({ currentApp, onAppChange }: TopNavBarProps) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
 
-  const handleAppChange = (app: string) => {
+  const getAppDisplayName = (app?: string) => {
+    switch (app) {
+      case 'bbgun':
+        return 'BB Gun Study'
+      case 'poultry':
+        return 'Poultry Judging Cards'
+      case 'music':
+        return 'Music Composition'
+      case 'stock':
+        return 'Stock Trading Simulator'
+      default:
+        return 'kevinhwang.me'
+    }
+  }
+
+  const handleAppChange = (app: string, e?: React.MouseEvent<HTMLAnchorElement>) => {
+    e?.preventDefault()
     onAppChange?.(app)
     setIsMobileMenuOpen(false)
   }
@@ -33,12 +49,12 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
               <MenubarTrigger>Apps</MenubarTrigger>
               <MenubarContent>
                 <MenubarItem asChild>
-                  <a href="#" onClick={() => handleAppChange('poultry')}>
+                  <a href="#" onClick={(e) => handleAppChange('poultry', e)}>
                     Poultry Judging Cards
                   </a>
                 </MenubarItem>
                 <MenubarItem asChild>
-                  <a href="/" onClick={() => handleAppChange('bbgun')}>
+                  <a href="#" onClick={(e) => handleAppChange('bbgun', e)}>
                     BB Gun Study
                   </a>
                 </MenubarItem>
@@ -68,30 +84,30 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
             <div className="flex flex-col gap-4 py-4">
               <div className="text-lg font-semibold">Apps</div>
               <a
-                href="/"
+                href="#"
                 className="text-sm hover:text-primary"
-                onClick={() => handleAppChange('bbgun')}
+                onClick={(e) => handleAppChange('bbgun', e)}
               >
                 BB Gun Study
               </a>
               <a
                 href="#"
                 className="text-sm hover:text-primary"
-                onClick={() => handleAppChange('music')}
+                onClick={(e) => handleAppChange('music', e)}
               >
                 Music Composition
               </a>
               <a
                 href="#"
                 className="text-sm hover:text-primary"
-                onClick={() => handleAppChange('stock')}
+                onClick={(e) => handleAppChange('stock', e)}
               >
                 Stock Trading Simulator
               </a>
               <a
                 href="#"
                 className="text-sm hover:text-primary"
-                onClick={() => handleAppChange('poultry')}
+                onClick={(e) => handleAppChange('poultry', e)}
               >
                 Poultry Judging Cards
               </a>
@@ -101,7 +117,7 @@ export function TopNavBar({ onAppChange }: TopNavBarProps) {
 
         {/* Logo/Title - visible on all screens */}
         <div className="flex-1 text-center sm:text-left sm:flex-none">
-          <h1 className="text-lg font-semibold">kevinhwang.me</h1>
+          <h1 className="text-lg font-semibold">{getAppDisplayName(currentApp)}</h1>
         </div>
       </div>
     </nav>
